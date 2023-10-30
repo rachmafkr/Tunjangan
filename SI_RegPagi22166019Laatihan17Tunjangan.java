@@ -23,7 +23,7 @@ public class SI_RegPagi22166019Laatihan17Tunjangan {
         //Input scanner
         Scanner input = new Scanner(System.in);
         
-        
+        // Print hasil
         System.out.println("============Program Tunjangan===========");
         System.out.println("Berapa gaji pokok anda perbulan? : " +gajipokok);
         System.out.println("Status anda? (Menikah/Belum) : " +status);
